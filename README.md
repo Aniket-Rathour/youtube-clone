@@ -1,43 +1,31 @@
-$ git clone https://github.com/Aniket-Rathour/youtube-clone.git
-$ cd youtube-clone
-$ npm install
-$ npm run dev
+# **[🚀 LIVE DEMO – Click Here](https://youtube-clone-xi-drab.vercel.app/)**
 
-#  You're live! Visit http://localhost:3000
+---
+A clean and fast **YouTube Clone** built with **Next.js + TypeScript**.  
+Your personal playground to learn, experiment, and build cooler stuff! 🎯
 
-##  YouTube Clone — by Aniket
+---
 
-###  Highlights
-• **Lightweight & Friendly** – Built with Next.js + TypeScript  
-• **Interactive** – Live reload, sleek UI, modular CSS  
-• **API-Ready** – Comes with backend-style API routes  
-• **Playground Vibes** – Tweak the UI and see it in real time
+## ⚡ Features
+- Fast & responsive UI  
+- Modular CSS for clean styling  
+- Built-in API routes  
+- Easy to customize & experiment  
 
-###  Skills Used
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]  
-[![API Routes](https://img.shields.io/badge/API-Routes-blue?style=for-the-badge&logo=postman&logoColor=white)]
+---
 
-###  What You’ll Learn
-- Core **Next.js** routing & rendering  
-- Type-safe components via **TypeScript**  
-- Building modular UI with CSS  
-- Crafting internal **API endpoints**
+## 🛠 Tech & Skills
+- **Next.js** – Routing, SSR/SSG  
+- **TypeScript** – Type safety  
+- **CSS Modules** – Component-based styles  
+- **API Routes** – Backend without servers  
 
-###  Coming Soon
-> ◼ YouTube Data API integration      
-> ◼Sign in/ Sign uP    
-> ◼ Search, infinite scroll & video lists  
-> ◼ User auth + comments section  
-> ◼ Polished UX/UI for real-platform feel
+---
 
-[![Roadmap Planned](https://img.shields.io/badge/Roadmap-Planned-brightgreen?style=for-the-badge)]
-
-###  Tech Stack at a Glance
-Next.js + TypeScript • CSS • Built-in API routes
-
-###  Contribute
-Fork → branch (`feature/…`) → commit → PR  
-— All contributions welcome!
+## 🚀 Quick Start
+```bash
+git clone https://github.com/Aniket-Rathour/youtube-clone.git
+cd youtube-clone
+npm install
+npm run dev
 
